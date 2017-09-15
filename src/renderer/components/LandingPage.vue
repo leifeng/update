@@ -11,7 +11,7 @@
 
       <div class="right-side">
         <div class="doc">
-          <div class="title">0.1.0</div>
+          <div class="title">0.1.1</div>
           <h2>
             {{message}}
           </h2>
